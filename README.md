@@ -1,4 +1,4 @@
-# Práctica iterativa: Databricks + Unity Catalog (equipo no técnico)
+# Práctica iterativa: Databricks + Unity Catalog
 
 Este repositorio guía una práctica **paso a paso** para trabajar con Databricks de forma colaborativa y validada.
 
