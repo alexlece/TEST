@@ -5,7 +5,7 @@ Este repositorio guía una práctica **paso a paso** para trabajar con Databrick
 > 💡 Se puede realizar con Databricks gratuito (Community Edition). **[Pondrás aquí tu enlace]**
 
 ## Qué aprenderás
-1) Hacer *fork* de este repo de ejemplo a tu propio repositorio (no tienes permisos aquí y por eso debes forkar).
+1) Hacer *fork* de este repo de ejemplo a tu propio repositorio
 2) Clonar tu fork en **Databricks Repos**.
 3) Preparar un **catálogo y esquema** propios en Unity Catalog.
 4) Ejecutar una **notebook sencilla** que crea tablas de entrada, intermedias y finales.
